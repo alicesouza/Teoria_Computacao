@@ -1,0 +1,4 @@
+graphviz @ file:///home/conda/feedstock_root/build_artifacts/python-graphviz_1609966316231/work
+matplotlib @ file:///C:/ci/matplotlib-suite_1634667159685/work
+visual-automata==1.1.1
+pandas @ file:///C:/ci/pandas_1635488579061/work
